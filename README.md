@@ -1,2 +1,2 @@
-# Java Project_follder c - Petrit Gela
- Projekti ne Java
+# Movie
+ Movie with Java and MongoDB
